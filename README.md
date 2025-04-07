@@ -32,5 +32,5 @@ Main input parameters are:
 - length of nozzle (L)
 
 # Running the model
-To run the model, run the following from the command line in the correct directory:
+To run the model, run the following from the command line in the correct directory:  
 python3 CFD_Main.py
