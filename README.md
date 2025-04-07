@@ -16,6 +16,10 @@ This project is a CFD model that solves the conservation equations of mass, mome
 git clone https://github.com/tylerbarrows/CFD.git  
 cd CFD  
 2. Install required dependencies
+1. Clone the respository:
+git clone https://github.com/tylerbarrows/CFD.git 
+cd CFD
+3. Install required dependencies
     - Numpy
     - Math
     - Matplotlib
